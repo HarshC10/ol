@@ -1,0 +1,17 @@
+h1
+{
+	color:black; 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image:url("depositphotos_82776044-stock-photo-colour-pencils-isolated-on-white.jpg");
+background-position: center;
+background-size: cover;	
+}
+
+#myCanvas{
+border-width: 10px;
+background-color:white;
+border-color: grey;
+border-style:ridge;
+}
